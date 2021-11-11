@@ -1,19 +1,14 @@
 ### 🌚 Oh, hi ~~Mark~~ There 🌚
 
-<!--
-**Noi8E/Noi8E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### You can call me Fedor for sure...or Theo, it's same name, right?
 
-Here are some ideas to get you started:
+So, who am i?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Noobie qa automation engineer. Mostly working on Java stack, but worked a little with java script (ES6).
+
+Now I'm at the beginning of the path, so there will not be a lot of information here, but it will be supplemented over time.
+
+Currently learning Auto-QA course in [QA GURU](https://qa.guru/)
 
 
 
