@@ -15,17 +15,6 @@ Now I'm at the beginning of the path, so there will not be a lot of information 
 
 ![Снимок экрана 2021-11-12 в 12 40 45](https://user-images.githubusercontent.com/14010677/141448640-d78243f9-08c3-4eea-ae2d-03b380e0bc41.png)
 
-* Java course in <a target="_blank" href="https://javarush.ru">🤖   JAVARUSH 🤖</a>
-
-
-![Снимок экрана 2021-11-12 в 12 37 12](https://user-images.githubusercontent.com/14010677/141448673-e35bf00f-f1ac-4099-9ac2-bc9a7f5ffbf1.png)
-
-
-
-
-
-
-
 
 
 
